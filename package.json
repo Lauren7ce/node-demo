@@ -4,7 +4,7 @@
   "description": "",
   "main": "dist/server.js",
   "scripts": {
-    "dev": "tsc && node dist/server.js",
+    "dev": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
